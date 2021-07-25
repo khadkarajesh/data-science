@@ -1,2 +1,2 @@
 # data-science
-Repository consists the tutorial and exercises related to data science.
+A Beginners guide to the Data Science with Python
